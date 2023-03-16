@@ -1,0 +1,8 @@
+opencv-python
+python-jsonrpc-server
+ujson
+jsonschema
+numpy
+numpydoc
+onnxruntime
+pandas
